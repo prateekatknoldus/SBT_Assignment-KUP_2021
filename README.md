@@ -1,11 +1,5 @@
-In this SBT Assignment i have created a class called Calculator using Scala which contains the implementation of the following operations:
+SBT_Assignment-KUP_2021
 
-Add
-Subtract
-Multiplication
-Division
-Power
-Absolute
-Modulus
-Maximum of Two
-Minimum of Two
+In this SBT Assignment i have created a class named Calculator using scala which contains the implementation of the following operations:
+
+Add, Subtract, Multiplication, Division, Power, Absolute, Modulus, Maximum of Two, Minimum of Two
