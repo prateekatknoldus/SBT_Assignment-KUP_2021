@@ -1,4 +1,4 @@
-SBT_Assignment-KUP_2021
+# SBT_Assignment-KUP_2021
 
 In this SBT Assignment i have created a class named Calculator using scala which contains the implementation of the following operations:
 
